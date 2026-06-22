@@ -1,9 +1,8 @@
 <div align="center">
 
-# Olá, eu sou a Beatrys! 👋
+ Olá, me chamo Beatrys! 
 
-🎓 Estudante de **Engenharia de Software** na **Unibrasil**  
-💻 Curiosa por natureza — adoro analisar erros e testar código  
+🎓 Estudante de **Engenharia de Software** na **Unibrasil**   
 🌱 Explorando o mundo do desenvolvimento — do front-end ao back-end  
 🔧 Atualmente desenvolvendo projetos utilizando **Java**  
 📍 Curitiba, PR
@@ -23,7 +22,7 @@
 </div>
 ---
 <div align="center">
-### 📌 Projetos em Destaque
+ 📌 Projetos em Destaque
 
 | Projeto | Tecnologia | Link |
 |--------|-----------|------|
@@ -36,7 +35,7 @@
 </div>
 ---
 
-### 📊 Estatísticas
+📊 Estatísticas
 
 <div align="center">
 
@@ -48,7 +47,7 @@
 
 ---
 
-### 🌐 Onde me encontrar
+🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Beatrys_Belo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/beatrys-belo-a1b488213)
 [![GitHub](https://img.shields.io/badge/GitHub-Beatrys--lira-black?style=flat&logo=github)](https://github.com/Beatrys-lira)
