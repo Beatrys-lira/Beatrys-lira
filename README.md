@@ -1,16 +1,62 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Beatrys-lira/Beatrys-lira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou a Beatrys! 👋
 
-Here are some ideas to get you started:
+🎓 Estudante de **Engenharia de Software** na **Unibrasil**  
+💻 Curiosa por natureza — adoro analisar erros e testar código  
+🌱 Explorando o mundo do desenvolvimento — do front-end ao back-end  
+🔧 Atualmente desenvolvendo projetos utilizando **Java**  
+📍 Curitiba, PR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 🛠️ Tecnologias que uso
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+
+---
+
+### 📌 Projetos em Destaque
+
+| Projeto | Tecnologia | Link |
+|--------|-----------|------|
+| 🎬 CineSearch | HTML, CSS, JS + OMDB API | [Ver projeto](https://cinesearchunibrasil.netlify.app/) |
+| ☕ COFFEBY | HTML, CSS | Em breve |
+| 📚 EducNow | HTML, CSS | Em breve |
+| 🚗 Esteves-Car | HTML, CSS | Em breve |
+| 🌤️ Previsão do Tempo | HTML, CSS, JS | Em breve |
+| 💬 Chat | Python | Em breve |
+
+---
+
+### 📊 Estatísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beatrys-lira&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beatrys-lira&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+### 🌐 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Beatrys_Belo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/beatrys-belo-a1b488213)
+[![GitHub](https://img.shields.io/badge/GitHub-Beatrys--lira-black?style=flat&logo=github)](https://github.com/Beatrys-lira)
+
+---
+
+<div align="center">
+
+*"Cada linha de código é um passo a mais na jornada."* 🚀
+
+</div>
