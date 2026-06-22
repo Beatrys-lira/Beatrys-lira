@@ -36,24 +36,25 @@
 </div>
 
 
-📊 Estatísticas
+
 
 <div align="center">
-
+📊 Estatísticas
+ 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beatrys-lira&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beatrys-lira&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
-
+<div align="center">
 
 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Beatrys_Belo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/beatrys-belo-a1b488213)
 [![GitHub](https://img.shields.io/badge/GitHub-Beatrys--lira-black?style=flat&logo=github)](https://github.com/Beatrys-lira)
 
-
+</div>
 
 <div align="center">
 
