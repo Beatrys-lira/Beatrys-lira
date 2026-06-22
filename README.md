@@ -9,9 +9,8 @@
 
 </div>
 
----
 <div align="center">
-### 🛠️ Tecnologias que uso
+ 🛠️ Tecnologias que uso
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -20,7 +19,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 </div>
----
+
 <div align="center">
  📌 Projetos em Destaque
 
@@ -33,7 +32,7 @@
 | 🌤️ Previsão do Tempo | HTML, CSS, JS | Em breve |
 | 💬 Chat | Python | Em breve |
 </div>
----
+
 
 📊 Estatísticas
 
@@ -45,14 +44,14 @@
 
 </div>
 
----
+
 
 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Beatrys_Belo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/beatrys-belo-a1b488213)
 [![GitHub](https://img.shields.io/badge/GitHub-Beatrys--lira-black?style=flat&logo=github)](https://github.com/Beatrys-lira)
 
----
+
 
 <div align="center">
 
