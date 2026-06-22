@@ -2,10 +2,10 @@
 
  Olá, me chamo Beatrys! 
 
-🎓 Estudante de **Engenharia de Software** na **Unibrasil**   
-🌱 Explorando o mundo do desenvolvimento — do **front-end** ao **back-end**  
-🔧 Atualmente desenvolvendo projetos utilizando **Java**  
-📍 Curitiba, PR
+ Estudante de **Engenharia de Software** na **Unibrasil**   
+ Explorando o mundo do desenvolvimento — do **front-end** ao **back-end**  
+ Atualmente desenvolvendo projetos utilizando **Java**  
+ Curitiba, PR
 
 </div>
 
