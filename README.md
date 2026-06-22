@@ -11,7 +11,7 @@
 </div>
 
 ---
-
+<div align="center">
 ### 🛠️ Tecnologias que uso
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -20,9 +20,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-
+</div>
 ---
-
+<div align="center">
 ### 📌 Projetos em Destaque
 
 | Projeto | Tecnologia | Link |
@@ -33,7 +33,7 @@
 | 🚗 Esteves-Car | HTML, CSS | Em breve |
 | 🌤️ Previsão do Tempo | HTML, CSS, JS | Em breve |
 | 💬 Chat | Python | Em breve |
-
+</div>
 ---
 
 ### 📊 Estatísticas
