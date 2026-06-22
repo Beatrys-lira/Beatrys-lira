@@ -1,9 +1,9 @@
 <div align="center">
 
- Olá, me chamo Beatrys! 
+ ###Olá, me chamo Beatrys! 
 
 🎓 Estudante de **Engenharia de Software** na **Unibrasil**   
-🌱 Explorando o mundo do desenvolvimento — do front-end ao back-end  
+🌱 Explorando o mundo do desenvolvimento — do **front-end** ao **back-end**  
 🔧 Atualmente desenvolvendo projetos utilizando **Java**  
 📍 Curitiba, PR
 
